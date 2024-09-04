@@ -1,5 +1,5 @@
 # NosoScan_Py
-A utility that scans the network for the corresponding node!
+A utility that scans the network for synchronization and versions of nodes in the network.
 
 ```
 python3 scan.py # Install the mail node in the scan.py file
